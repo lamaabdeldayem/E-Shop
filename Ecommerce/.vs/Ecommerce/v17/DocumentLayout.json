@@ -1,0 +1,285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\source\\repos\\Ecommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1061D494-1528-4645-B134-5511B0700E56}|Ecommerce\\Ecommerce.csproj|c:\\users\\dell\\source\\repos\\ecommerce\\ecommerce\\admin\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1061D494-1528-4645-B134-5511B0700E56}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\admin\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1061D494-1528-4645-B134-5511B0700E56}|Ecommerce\\Ecommerce.csproj|C:\\Users\\dell\\source\\repos\\Ecommerce\\ecommerce\\admin\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{1061D494-1528-4645-B134-5511B0700E56}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\admin\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1061D494-1528-4645-B134-5511B0700E56}|Ecommerce\\Ecommerce.csproj|C:\\Users\\dell\\source\\repos\\Ecommerce\\ecommerce\\admin\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1061D494-1528-4645-B134-5511B0700E56}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\admin\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1061D494-1528-4645-B134-5511B0700E56}|Ecommerce\\Ecommerce.csproj|C:\\Users\\dell\\source\\repos\\Ecommerce\\ecommerce\\user\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1061D494-1528-4645-B134-5511B0700E56}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\user\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1061D494-1528-4645-B134-5511B0700E56}|Ecommerce\\Ecommerce.csproj|C:\\Users\\dell\\source\\repos\\Ecommerce\\ecommerce\\user\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1061D494-1528-4645-B134-5511B0700E56}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\user\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1061D494-1528-4645-B134-5511B0700E56}|Ecommerce\\Ecommerce.csproj|C:\\Users\\dell\\source\\repos\\Ecommerce\\ecommerce\\user\\user.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{1061D494-1528-4645-B134-5511B0700E56}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\user\\user.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1061D494-1528-4645-B134-5511B0700E56}|Ecommerce\\Ecommerce.csproj|C:\\Users\\dell\\source\\repos\\Ecommerce\\ecommerce\\user\\sliderusercontrol.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{1061D494-1528-4645-B134-5511B0700E56}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\user\\sliderusercontrol.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1061D494-1528-4645-B134-5511B0700E56}|Ecommerce\\Ecommerce.csproj|C:\\Users\\dell\\source\\repos\\Ecommerce\\ecommerce\\admintemplate\\docs\\docs.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1061D494-1528-4645-B134-5511B0700E56}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\admintemplate\\docs\\docs.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1061D494-1528-4645-B134-5511B0700E56}|Ecommerce\\Ecommerce.csproj|C:\\Users\\dell\\source\\repos\\Ecommerce\\ecommerce\\user\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1061D494-1528-4645-B134-5511B0700E56}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\user\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1061D494-1528-4645-B134-5511B0700E56}|Ecommerce\\Ecommerce.csproj|C:\\Users\\dell\\source\\repos\\Ecommerce\\ecommerce\\user\\shopdetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1061D494-1528-4645-B134-5511B0700E56}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\user\\shopdetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1061D494-1528-4645-B134-5511B0700E56}|Ecommerce\\Ecommerce.csproj|C:\\Users\\dell\\source\\repos\\Ecommerce\\ecommerce\\user\\shop.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1061D494-1528-4645-B134-5511B0700E56}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\user\\shop.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1061D494-1528-4645-B134-5511B0700E56}|Ecommerce\\Ecommerce.csproj|C:\\Users\\dell\\source\\repos\\Ecommerce\\ecommerce\\user\\user.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1061D494-1528-4645-B134-5511B0700E56}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\user\\user.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1061D494-1528-4645-B134-5511B0700E56}|Ecommerce\\Ecommerce.csproj|C:\\Users\\dell\\source\\repos\\Ecommerce\\ecommerce\\user\\shop.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1061D494-1528-4645-B134-5511B0700E56}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\user\\shop.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1061D494-1528-4645-B134-5511B0700E56}|Ecommerce\\Ecommerce.csproj|C:\\Users\\dell\\source\\repos\\Ecommerce\\ecommerce\\user\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1061D494-1528-4645-B134-5511B0700E56}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\user\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1061D494-1528-4645-B134-5511B0700E56}|Ecommerce\\Ecommerce.csproj|C:\\Users\\dell\\source\\repos\\Ecommerce\\ecommerce\\user\\default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1061D494-1528-4645-B134-5511B0700E56}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\user\\default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1061D494-1528-4645-B134-5511B0700E56}|Ecommerce\\Ecommerce.csproj|C:\\Users\\dell\\source\\repos\\Ecommerce\\ecommerce\\user\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1061D494-1528-4645-B134-5511B0700E56}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\user\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Ecommerce\\Ecommerce\\Admin\\Dashboard.aspx",
+              "RelativeDocumentMoniker": "Ecommerce\\Admin\\Dashboard.aspx",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Ecommerce\\Ecommerce\\Admin\\Dashboard.aspx",
+              "RelativeToolTip": "Ecommerce\\Admin\\Dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-18T13:01:06.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Ecommerce\\Ecommerce\\Admin\\Contact.aspx",
+              "RelativeDocumentMoniker": "Ecommerce\\Admin\\Contact.aspx",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Ecommerce\\Ecommerce\\Admin\\Contact.aspx",
+              "RelativeToolTip": "Ecommerce\\Admin\\Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-20T09:33:48.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "docs.html",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Ecommerce\\Ecommerce\\AdminTemplate\\docs\\docs.html",
+              "RelativeDocumentMoniker": "Ecommerce\\AdminTemplate\\docs\\docs.html",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Ecommerce\\Ecommerce\\AdminTemplate\\docs\\docs.html",
+              "RelativeToolTip": "Ecommerce\\AdminTemplate\\docs\\docs.html",
+              "ViewState": "AQIAACsCAAAAAAAAAAAmwDkCAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-20T09:14:59.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin.Master",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Ecommerce\\Ecommerce\\Admin\\Admin.Master",
+              "RelativeDocumentMoniker": "Ecommerce\\Admin\\Admin.Master",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Ecommerce\\Ecommerce\\Admin\\Admin.Master",
+              "RelativeToolTip": "Ecommerce\\Admin\\Admin.Master",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-18T13:00:15.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Ecommerce\\Ecommerce\\User\\Contact.aspx",
+              "RelativeDocumentMoniker": "Ecommerce\\User\\Contact.aspx",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Ecommerce\\Ecommerce\\User\\Contact.aspx",
+              "RelativeToolTip": "Ecommerce\\User\\Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-18T12:31:59.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Checkout.aspx",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Ecommerce\\Ecommerce\\User\\Checkout.aspx",
+              "RelativeDocumentMoniker": "Ecommerce\\User\\Checkout.aspx",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Ecommerce\\Ecommerce\\User\\Checkout.aspx",
+              "RelativeToolTip": "Ecommerce\\User\\Checkout.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-18T12:31:47.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cart.aspx",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Ecommerce\\Ecommerce\\User\\Cart.aspx",
+              "RelativeDocumentMoniker": "Ecommerce\\User\\Cart.aspx",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Ecommerce\\Ecommerce\\User\\Cart.aspx",
+              "RelativeToolTip": "Ecommerce\\User\\Cart.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-18T12:31:22.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.Master",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Ecommerce\\Ecommerce\\User\\User.Master",
+              "RelativeDocumentMoniker": "Ecommerce\\User\\User.Master",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Ecommerce\\Ecommerce\\User\\User.Master",
+              "RelativeToolTip": "Ecommerce\\User\\User.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-13T13:59:58.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SliderUserControl.ascx",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Ecommerce\\Ecommerce\\User\\SliderUserControl.ascx",
+              "RelativeDocumentMoniker": "Ecommerce\\User\\SliderUserControl.ascx",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Ecommerce\\Ecommerce\\User\\SliderUserControl.ascx",
+              "RelativeToolTip": "Ecommerce\\User\\SliderUserControl.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-08-18T11:41:22.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShopDetail.aspx",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Ecommerce\\Ecommerce\\User\\ShopDetail.aspx",
+              "RelativeDocumentMoniker": "Ecommerce\\User\\ShopDetail.aspx",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Ecommerce\\Ecommerce\\User\\ShopDetail.aspx",
+              "RelativeToolTip": "Ecommerce\\User\\ShopDetail.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-13T15:29:57.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.Master.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Ecommerce\\Ecommerce\\User\\User.Master.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\User\\User.Master.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Ecommerce\\Ecommerce\\User\\User.Master.cs",
+              "RelativeToolTip": "Ecommerce\\User\\User.Master.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T11:45:39.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Shop.aspx",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Ecommerce\\Ecommerce\\User\\Shop.aspx",
+              "RelativeDocumentMoniker": "Ecommerce\\User\\Shop.aspx",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Ecommerce\\Ecommerce\\User\\Shop.aspx",
+              "RelativeToolTip": "Ecommerce\\User\\Shop.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-13T15:28:17.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Shop.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Ecommerce\\Ecommerce\\User\\Shop.aspx.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\User\\Shop.aspx.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Ecommerce\\Ecommerce\\User\\Shop.aspx.cs",
+              "RelativeToolTip": "Ecommerce\\User\\Shop.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T11:01:13.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Ecommerce\\Ecommerce\\User\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\User\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Ecommerce\\Ecommerce\\User\\Default.aspx.cs",
+              "RelativeToolTip": "Ecommerce\\User\\Default.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T11:00:16.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Default.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Ecommerce\\Ecommerce\\User\\Default.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\User\\Default.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Ecommerce\\Ecommerce\\User\\Default.aspx.designer.cs",
+              "RelativeToolTip": "Ecommerce\\User\\Default.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T11:00:19.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Ecommerce\\Ecommerce\\User\\Default.aspx",
+              "RelativeDocumentMoniker": "Ecommerce\\User\\Default.aspx",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Ecommerce\\Ecommerce\\User\\Default.aspx",
+              "RelativeToolTip": "Ecommerce\\User\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-13T14:06:00.369Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
